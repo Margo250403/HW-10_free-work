@@ -26,6 +26,9 @@ h3{
     color: #000000;
     margin-left: 23px;
 }
+.table > div td{
+    padding-bottom: 18px;
+}
 .flex > div{
     display: flex;
     justify-content: right;
@@ -54,4 +57,7 @@ h3{
 .float > div img{
     float: left;
     margin-right: 23px;
+}
+.float .text{
+    padding-top: 22px;
 }
